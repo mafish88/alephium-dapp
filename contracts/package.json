@@ -25,7 +25,8 @@
     "test": "jest -i --config ./jest-config.json"
   },
   "dependencies": {
-    "@alephium/web3": "^1.8.5"
+    "@alephium/web3": "^1.8.5",
+    "typescript": "^5.1.6"
   },
   "devDependencies": {
     "@alephium/cli": "^1.8.5",
@@ -40,8 +41,7 @@
     "eslint-plugin-prettier": "^4.0.0",
     "jest": "^28.1.0",
     "ts-jest": "^28.0.2",
-    "ts-node": "^10.7.0",
-    "typescript": "^5.5.4"
+    "ts-node": "^10.7.0"
   },
   "engines": {
     "node": ">=14.0.0",
