@@ -4933,6 +4933,7 @@ my-contracts@^0.1.0, "my-contracts@file:/Users/michaelfisher/Alephium/alephium-d
   resolved "file:contracts"
   dependencies:
     "@alephium/web3" "^1.8.5"
+    typescript "^5.1.6"
 
 "my-dapp@file:/Users/michaelfisher/Alephium/alephium-dapp/app":
   version "0.1.0"
